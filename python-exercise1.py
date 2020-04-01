@@ -2,10 +2,6 @@
 
 #gathering information
 name = input('Tell me your name: ')
-print(f'Hello, {name}')
-
-
-
 
 #printing output
 print(f'Hello, {name}')
